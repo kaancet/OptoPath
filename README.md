@@ -11,5 +11,3 @@ Small bokeh powered app to simulate optical path and power loss
 
 ## Contact
 cetindag.kaan@gmail.com
-
-## This is a test
