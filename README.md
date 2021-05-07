@@ -1,5 +1,4 @@
 # OptoPath
-Small bokeh app to simulate optical path and power loss
 Small bokeh powered app to simulate optical path and power loss
 
 ## ToDo
